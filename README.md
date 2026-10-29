@@ -4,7 +4,7 @@
 
 Created as a personal philosophy project, reworking authors and schools of thought into a game.
 
-▶ **Play it here:** https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
+▶ **Play it here:** https://Brusati010.github.io/Logomachia/
 
 ## How it works
 

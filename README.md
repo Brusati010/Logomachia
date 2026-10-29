@@ -40,3 +40,9 @@ Download the repository and open `index.html` in any modern browser. No installa
 | --- | --- |
 | `index.html` | The whole game (HTML, CSS and JavaScript) |
 | `filosofi.json` | The database: philosophers, arguments, lines, weaknesses, topics |
+
+## Credits
+
+The choice of philosophers, the interpretation of their thought and the game's ideas are the author's own work.
+
+© [2026] [Brusa010]. All rights reserved. Any reproduction, even partial, is prohibited.
